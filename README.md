@@ -1,36 +1,54 @@
-# 👋 Hi there, I'm Jesús Alarcón
+<!-- HERO BANNER -->
 
-## 💼 Senior Software Engineer
 
-Senior Software Engineer with more than **7 years of experience** building scalable web and backend applications using:
+## 💼 About Me
 
-.NET • Java • NestJS • Angular • React
+Senior Software Engineer with **7+ years of experience** building scalable web and backend systems using:
 
----
+**.NET • Java • NestJS • Angular • React**
 
-## 🚀 About Me
+Strong focus on:
 
-Passionate about **software design and architecture**, with a strong focus on:
+- 🧠 Software Architecture & System Design  
+- ⚙️ Scalable distributed systems  
+- 🧱 Clean Architecture & Design Patterns  
+- ☁️ Cloud-native solutions (AWS & Azure)  
+- 🚀 High-quality, maintainable codebases  
 
-- Scalable system design
-- Clean Architecture & Design Patterns
-- High-quality, maintainable code
-- Cloud-native applications
+Experienced across the full SDLC:
 
-Experienced working with **AWS and Azure**, involved in the full software lifecycle:
+> Requirements → Design → Development → Deployment → Production
 
-> Requirements → Architecture → Development → Deployment → Delivery
+Always exploring modern engineering practices and technologies like:
 
-Always exploring modern technologies and engineering practices, including:
+**Go • Kotlin • Flutter • C++ • DevOps • Cloud Native Systems**
 
-Go • Flutter • Kotlin • C++ • DevOps practices
+<br/>
 
----
+## 🏆 Certifications
 
-## 🧠 Tech Stack
+  <a href="https://www.credly.com/badges/6e3b57e1-5711-46c7-9966-2970acf69cdf" target="_blank">
+    <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="150" alt="Mi Insignia de Credly" />
+  </a>
+
+<br/>
+
+## 🧠 Engineering Mindset (Architect Perspective)
+
+I focus on building systems that are:
+
+- 🔥 Scalable under real production load
+- 🧩 Modular and easy to evolve
+- 🛡️ Resilient and fault-tolerant
+- 📈 Observable and maintainable
+- 💡 Designed for long-term evolution, not short-term delivery
+
+<br/>
+
+## 🛠️ Tech Stack
 
 ### Backend
-![.NET](https://img.shields.io/badge/.NET-Core-512BD4?style=for-the-badge&logo=dotnet)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
 
@@ -42,30 +60,35 @@ Go • Flutter • Kotlin • C++ • DevOps practices
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-Automation-green?style=for-the-badge)
 
----
-
-## 🏆 Certifications
-
-- 🎓 AWS Certified Solutions Architect – Associate (2026)
-
----
+<br/>
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alarconjesusr&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alarconjesusr&show_icons=true&theme=tokyonight" width="48%" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alarconjesusr&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alarconjesusr&layout=compact&theme=tokyonight)
 
----
-
-## 🌐 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)]
 
 ---
 
-## ⚡ Fun fact
+## 🌐 Connect with Me
 
-> "Clean code always looks like it was written by someone who cares."
+<p align="center">
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
+
+---
+
+## ⚡ Closing Thought
+
+> “Architecture is about making the right trade-offs, not perfect systems.”
