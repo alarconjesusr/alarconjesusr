@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hola, soy Jesús Alarcón 👋
 
-<!--
-**alarconjesusr/alarconjesusr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Sobre mí
+- Software Engineer con enfoque en backend y cloud
+- Interesado en arquitectura de software y AWS
+- Basado en México 🇲🇽
 
-Here are some ideas to get you started:
+## 🧠 Tecnologías
+- Java / .NET / Node.js
+- AWS (EC2, S3, Lambda, VPC)
+- Microservicios, APIs, Clean Architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Certificaciones
+- AWS Certified Solutions Architect – Associate (2026)
+
+## 🚀 Proyectos destacados
+- API de pruebas con arquitectura limpia
+- Proyecto cloud en AWS con servicios serverless
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=alarconjesusr&show_icons=true)
+
+## 📫 Contacto
+- LinkedIn: tu-link
+- Email: tu-email
