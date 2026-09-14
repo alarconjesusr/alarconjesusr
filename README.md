@@ -5,7 +5,7 @@
 
 Senior Software Engineer with **7+ years of experience** building scalable web and backend systems using:
 
-**.NET • Java • NestJS • Angular • React**
+**.NET • Java • NestJS • Angular • React • GO**
 
 Strong focus on:
 
